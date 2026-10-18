@@ -2,7 +2,7 @@
 
 APT repository for Sileo and Zebra.
 
-**Add this URL:** `https://lh29007.github.io/lh2-repo-/`
+**Add this URL:** `https://lh29007.github.io/Lh2-Repo-/`
 
 ## Packages
 
