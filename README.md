@@ -1,13 +1,13 @@
 # Lh2 Repo
 
-Dépôt APT pour Sileo et Zebra.
+APT repository for Sileo and Zebra.
 
-**URL à ajouter :** `https://lh29007.github.io/lh2-repo-/`
+**Add this URL:** `https://lh29007.github.io/lh2-repo-/`
 
-## Paquets
+## Packages
 
-| Paquet | Version | Description |
+| Package | Version | Description |
 |---|---|---|
-| com.lh29007.boomapp | 1.0.0 | BoomApp : Respring, uicache, Shutdown, Reboot |
+| com.lh29007.boomapp | 1.0.0 | BoomApp: Respring, uicache, shutdown and reboot |
 
-Compatibilité : iOS 12.0+, arm64.
+Compatibility: iOS 12.0+, arm64.
