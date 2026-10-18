@@ -1,17 +1,17 @@
 Package: com.lh29007.boomapp
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: Lh29007
+Maintainer: Lh29007 <lh29007@proton.me>
 Installed-Size: 88
 Depends: firmware (>= 12.0)
 Filename: debs/com.lh29007.boomapp_1.0.0_iphoneos-arm.deb
-Size: 10394
-MD5sum: d56ff3e5e93cfc8d29c515b775a4fe7e
-SHA1: b1417e689d289d315bbd298aaa0ec9a4e697b6cb
-SHA256: 597ed2ab2d32e976478d12d44362c4f6dfef70ea2e5e2d972809742a03e5df83
+Size: 10392
+MD5sum: 1c3adac0fd1bd32a2e14270fcba6e3ee
+SHA1: e0ee3e093bd01b3d6ed1ccffa5f7ea3c5dbdec7d
+SHA256: 66caafa045aae31d47e55ea6d0332eb0914d6e7205fb64d827627e3f81e147c1
 Section: Utilities
 Description: Application de contrôle rapide : Respring, uicache, redémarrage et extinction.
-Author: Lh29007
+Author: Lh29007 <lh29007@proton.me>
 Name: BoomApp
 Icon: https://lh29007.github.io/lh2-repo-/CydiaIcon.png
 Depiction: https://lh29007.github.io/lh2-repo-/
