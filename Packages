@@ -5,14 +5,31 @@ Maintainer: Lh29007 <lh29007@proton.me>
 Installed-Size: 88
 Depends: firmware (>= 12.0)
 Filename: debs/com.lh29007.boomapp_1.0.0_iphoneos-arm.deb
-Size: 10274
-MD5sum: 12ba1d85a263c506fb9d1cc3901bf21e
-SHA1: b66c98d0310445d2093f54a4af3646d36a32c9d9
-SHA256: 9b34c58544e99f9877fdd6cbfa26358f94bae19770fe59feac54ec12be99cd98
+Size: 10306
+MD5sum: 715d74f80986da7a2b9e1b317873b4f8
+SHA1: 575d80bf27b4cfb7c5b567c2df2d41f0c58896b1
+SHA256: 347a0ed87745ea3261ec0332e3a8279504aad0c9ac1339ef05fbcfed3de43872
 Section: Utilities
 Description: Quick-control app: Respring, uicache, shutdown and reboot.
 Author: Lh29007 <lh29007@proton.me>
-Name: BoomApp
-Icon: https://lh29007.github.io/lh2-repo-/CydiaIcon.png
 Depiction: https://lh29007.github.io/lh2-repo-/
+Icon: https://lh29007.github.io/lh2-repo-/CydiaIcon.png
+Name: BoomApp
+Package: com.lh29007.fancyterminalft
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Lh29007 <lh29007@proton.me>
+Installed-Size: 140
+Depends: firmware (>= 12.0)
+Filename: debs/com.lh29007.fancyterminalft_1.0.0_iphoneos-arm.deb
+Size: 23372
+MD5sum: 949ca0ab9b651babb8faea1984185570
+SHA1: 596da3c6d38279cf6258f92f3031c2d94c7f2c4b
+SHA256: 42177b5841f351d1348ccd177dfce284634a005dabfd4d43ea6b2262ff488d87
+Section: Utilities
+Description: A real pseudo-terminal for iOS 12+: ANSI colors (16, 256, truecolor), key bar, themes and settings. Runs as the app user, never as root.
+Author: Lh29007 <lh29007@proton.me>
+Depiction: https://lh29007.github.io/lh2-repo-/
+Icon: https://lh29007.github.io/lh2-repo-/FancyTerminal-icon.png
+Name: Fancy Terminal FT
 

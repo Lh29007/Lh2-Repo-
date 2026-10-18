@@ -1,25 +1,25 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Sun, 18 Oct 2026 10:21:48 +0000
-Description: Lh2 Repo for Sileo: BoomApp
+Date: Sun, 18 Oct 2026 10:33:33 +0000
+Description: Lh2 Repo for Sileo: BoomApp and Fancy Terminal FT
 Label: Lh2 Repo
 Origin: Lh29007
 Suite: stable
 Version: 1.0
 MD5Sum:
- 895414eabc9bfcea839585cc21f0f71e              635 Packages
- 1a884115cd56f7ff19909196a815b1d8              435 Packages.gz
- 3b293ebfd728d17a2ae720b9e6a6df52              197 Release
+ aa821629b9ea284821ed3ea325b9a2dc             1383 Packages
+ 75b78f38665d5d934ca80feabfc4cb1e              671 Packages.gz
+ 577ce848430f3d1ed1a445a23f8ae37f              219 Release
 SHA1:
- 78aaf03607a67110d98b3c2a62984d291bdc3c10              635 Packages
- 6382b24cc4235eac397642cf8f5443bf8e644c22              435 Packages.gz
- 3418a96c1aa7788408272c141260098cb188ad66              197 Release
+ eeab1f1c33d393d970f29cd5347f1ebf6d5cf0e3             1383 Packages
+ cd7fc906d4dcc0de1fc3c501e17c9ce167d5a058              671 Packages.gz
+ 9f3c7f40a0f43fb1b55a19407a6aa652336444a2              219 Release
 SHA256:
- 6aac2d5a4b42e9bb6dc76893409f8aea72866a9256965a97572ac9f0dc71667d              635 Packages
- 7d34de8528a246046ee945641f2b4b28a24649258c3870e27e06a572f6885bde              435 Packages.gz
- 683300f01fde916d460900238025c665132356c329ce2d83d2bfd8eff36761fa              197 Release
+ ca1de90f54e6cc20ca00b6f7d99900ac37ed9d032fde1aefb1bce0a6e20bc3fb             1383 Packages
+ 4788aa1027bb6b399c2af760a93f73e87b31cfc481a644a888f660edd5245e36              671 Packages.gz
+ 355c8fb408e4cab09d172992ad54092db603657c3e0f4d678f35d0de82374c6a              219 Release
 SHA512:
- 6a45ec437ee131162c397d861b7cb71e0b4e291ce81d3e60cfa9b0ddaf0e3bc862321cc9608ef18536368551c4b2c5677317ef432bf3fb82c190f918f22d4649              635 Packages
- 81825fe71de5d6c745495ba76e9838537dcdb5e8817c660d2906d98951cf18a1adb17f11c5dd616567a70c8bb7d4a144cd08fe502916de31b4bf0be7d96317db              435 Packages.gz
- c7501f1341322bc45a1c6c99436ef91c1b57ea3581d8b8f231f4da0f2fff555f6d189536651c4aa8a3245ec724528e7bf4387afe2d4a36fbe237d94979d1d562              197 Release
+ dc56029eab209b720c9c3fee753f8df91511de54dea832102fbcca9d5a7a17648328cac8a675e3800e1c04ae622cbe19889030497911a2744d9b8c55055c9bdf             1383 Packages
+ 9ee965c10e5f78a520effb8e7e617f141f7920f105f7a01c53bab3c51e35243c107bd0d424bfd595d5946fe53907c4d20a87b3986735c77970d7d0027a9d55b1              671 Packages.gz
+ e1f5b16e6573ee88241f7cb70af212dcfefe6de75e84a338a3bbb8f83d140189723797356e1cf3680854b5dbb6a1998f0b2f880a4a0a5aba5564f6117cafb761              219 Release
