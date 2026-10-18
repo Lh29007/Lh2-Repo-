@@ -1,0 +1,18 @@
+Package: com.yourname.boomapp
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Your Name <you@example.com>
+Installed-Size: 88
+Depends: firmware (>= 12.0)
+Filename: debs/com.yourname.boomapp_1.0.0_iphoneos-arm.deb
+Size: 10394
+MD5sum: 1826a5cfc0ba20cee2b15e4de2c326f1
+SHA1: 7bceef010b1b6a48f99d85944dfdc7faac429422
+SHA256: 18d753cb2ba50819f3ab97cb6025b7c1527443f76a164dcc833155a022bd9234
+Section: Utilities
+Description: Application de contrôle rapide : Respring, uicache, redémarrage et extinction.
+Author: Your Name <you@example.com>
+Name: BoomApp
+Icon: https://lh29007.github.io/lh2-repo-/CydiaIcon.png
+Depiction: https://lh29007.github.io/lh2-repo-/
+

@@ -1,0 +1,25 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Sun, 18 Oct 2026 10:00:17 +0000
+Description: Dépôt Sileo TheLh2 : BoomApp
+Label: Lh2 Repo
+Origin: TheLh2
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 97692c05d82dfe7d4dca82427f5e221f              659 Packages
+ 142e40ec234e4f38106591da54151e79              458 Packages.gz
+ b9accf0a013e748a35d40ccc69a3d31a              199 Release
+SHA1:
+ 1519a9b56b5dea2db16fbe1dde495a31397d5341              659 Packages
+ a3cf7ceb207d0fb1b2e855f2f1b1dc6a5b723273              458 Packages.gz
+ ab9ff589729f6bcb4898e49e316ca33ac001035f              199 Release
+SHA256:
+ efaf8e407ad6eef34f4b969c12d54f28b606d3d8c5232142f022a17bb7c4f622              659 Packages
+ abc32ee1fce67f43bb089a8d173b069b05a1591045f82408905c9289dd76087b              458 Packages.gz
+ 3f0b927e0de3b4ea70d710fa988884d5a0f6869ee0d4af84a389b6dd3045fc6a              199 Release
+SHA512:
+ ec6d92e0ab2bd3c7eeefd70428916ef0604f08b242d3270843e4bb38cb892972af97e11a17dd69e1e35544caa7427c3860cd22bb68aee5d4255cf5f956a0fd15              659 Packages
+ f54a075961ad43004fd1a454251b5b5c088798024a1e12d324722bc970af8639606a514a1832605691a447fbfb2757ce3fdb1fdd07d64808c1666f283e8f7eae              458 Packages.gz
+ ba66614fb1416c9313ab96c231fde64c11e35a764557400c237a517916f14edbc3c8fb6d3ac1384873eae553edf27923300093eecae3f9f5c2de2fe875e7d8f1              199 Release
