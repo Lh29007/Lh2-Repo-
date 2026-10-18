@@ -8,6 +8,6 @@ Dépôt APT pour Sileo et Zebra.
 
 | Paquet | Version | Description |
 |---|---|---|
-| com.yourname.boomapp | 1.0.0 | BoomApp : Respring, uicache, Shutdown, Reboot |
+| com.lh29007.boomapp | 1.0.0 | BoomApp : Respring, uicache, Shutdown, Reboot |
 
 Compatibilité : iOS 12.0+, arm64.
